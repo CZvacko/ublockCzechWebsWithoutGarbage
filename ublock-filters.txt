@@ -1,4 +1,4 @@
-www.seznam.cz##.js-hp-gadget.hp-gadget-horoskopy.hp-gadget
+﻿www.seznam.cz##.js-hp-gadget.hp-gadget-horoskopy.hp-gadget
 www.seznam.cz##.js-gadget-app-promo.gadget-app-promo
 www.titulky.com###head > div:nth-of-type(1)
 
@@ -80,8 +80,8 @@ seznamzpravy.cz##div[style="opacity: 1; background-color: rgb(255, 255, 255); di
 seznamzpravy.cz##div[style="width: 300px; max-width: 100%;"]
 seznamzpravy.cz##div[style="width: 300px; height: 250px;"]
 seznam.cz##div[style="width: 480px; height: 300px;"]
-seznam.cz##div[style="width: 300px; height: 600px;"]
-seznam.cz##div[style="width: 300px; height: 250px;"]
+!seznam.cz##div[style="width: 300px; height: 600px;"]
+!seznam.cz##div[style="width: 300px; height: 250px;"]
 
 www.dasweltauto.cz##.cookie-wrapper
 
