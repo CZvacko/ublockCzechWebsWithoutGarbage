@@ -22,6 +22,7 @@ idnes.cz##score-box#group-premium
 idnes.cz##div.mega.scheme-flex.scheme-blue
 zive.cz##div.bx.box-zbozi.fs-os
 idnes.cz##div.opener.extra-box.premium-megabox
+proalergiky.cz##div.banner-wrapper
 
 
 ! div id
