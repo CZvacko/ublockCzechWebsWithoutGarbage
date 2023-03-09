@@ -43,7 +43,6 @@ idnes.cz##div#jednorozec_3
 idnes.cz##div#megapruh
 idnes.cz##div#megovka2021
 idnes.cz##div#do-kina
-seznamzpravy.cz##div#dynamic_banner__ad-wrapper
 novinky.cz##div#rightColumn
 novinky.cz##div#container-banner
 novinky.cz##div#middleLdrBox
@@ -63,7 +62,6 @@ idnes.cz##div[style="width:300px; height:600px"]
 idnes.cz##div[style="width: 300px; height: 600px; display: block;"]
 novinky.cz##div[style="display:inline-block; display:-moz-box; margin-right:-100%; cursor:pointer;"]
 novinky.cz##div[style="z-index: 2; position: relative; margin-top: 210px; background: url(&quot;//1.im.cz/r2/_samples/novinky/repeat-shadow-big.gif&quot;) rgb(255, 255, 255); width: 1029px;"]
-novinky.cz##div[style="top:0px; left:0px; position: absolute; width:100%; min-width:989px; height:600px; display:block; z-index:1; overflow:hidden; margin: 0 auto;"]
 novinky.cz##div[style="position:relative; right:50%; text-align:center;"]
 novinky.cz##div[style="display:block; height:100%; width:100%; position:fixed; left:0; top:0; z-index:0; text-indent:-5000em;"]
 novinky.cz##div[style="top:0px; left:0px; position: absolute; width:100%; min-width:989px; height:600px; display:block; z-index:1; overflow:hidden; margin: 0 auto;"]
