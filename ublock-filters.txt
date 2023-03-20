@@ -85,6 +85,7 @@ seznam.cz##div[style="width: 300px; height: 250px;"]
 seznam.cz##div[style="width: 300px; max-width: 100%;"]
 seznam.cz##div[style="width: 461px; height: 100px;"]
 seznam.cz##div[style="flex-basis: 1800px; height: 1800px;"]
+seznam.cz##div[style="height: 299.78px; width: 479.885px; max-width: 100%;"]
 
 www.dasweltauto.cz##.cookie-wrapper
 
