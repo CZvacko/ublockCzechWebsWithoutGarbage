@@ -61,6 +61,7 @@ idnes.cz##div[style="position:relative; width:480px; height:300px;"]
 idnes.cz##div[style="width:300px; height:600px"]
 idnes.cz##div[style="width: 300px; height: 600px; display: block;"]
 idnes.cz##div[style="background-position: center center;"]
+idnes.cz##table:has-text(branding)
 novinky.cz##div[style="display:inline-block; display:-moz-box; margin-right:-100%; cursor:pointer;"]
 novinky.cz##div[style="z-index: 2; position: relative; margin-top: 210px; background: url(&quot;//1.im.cz/r2/_samples/novinky/repeat-shadow-big.gif&quot;) rgb(255, 255, 255); width: 1029px;"]
 novinky.cz##div[style="position:relative; right:50%; text-align:center;"]
