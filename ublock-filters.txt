@@ -43,6 +43,7 @@ idnes.cz##div#jednorozec_3
 idnes.cz##div#megapruh
 idnes.cz##div#megovka2021
 idnes.cz##div#do-kina
+tvprogram.idnes.cz##div#fixed-group
 novinky.cz##div#rightColumn
 novinky.cz##div#container-banner
 novinky.cz##div#middleLdrBox
