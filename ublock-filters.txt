@@ -54,7 +54,6 @@ seznam.cz##div#timeline-article
 diit.cz##div#fb-root
 havirov-city.cz##div#sliding-popup
 seznamzpravy.cz##div#dynamic_banner__ad-wrapper
-seznam.cz##div#boxik-173172
 kupi.cz##div#user_geo_popup
 
 ! style name
