@@ -12,6 +12,7 @@ idnes.cz##div.group.group-sport
 idnes.cz##div.group.group-premium
 idnes.cz##div.art.art-videoplayer
 idnes.cz##div.group-infinity
+idnes.cz##div.intermediate-element
 kupi.cz##div.selfpromo_paid
 svepomoci.cz##div.v-responsive__content
 denik.cz##div.covid-banner
@@ -41,8 +42,10 @@ idnes.cz##div#jednorozec_1
 idnes.cz##div#jednorozec_2
 idnes.cz##div#jednorozec_3
 idnes.cz##div#megapruh
-idnes.cz##div#megovka2021
 idnes.cz##div#do-kina
+idnes.cz##div#logo
+idnes.cz##div#house_left
+idnes.cz##div#header-copy1
 tvprogram.idnes.cz##div#fixed-group
 novinky.cz##div#rightColumn
 novinky.cz##div#container-banner
@@ -54,7 +57,6 @@ seznam.cz##div#timeline-article
 diit.cz##div#fb-root
 havirov-city.cz##div#sliding-popup
 seznamzpravy.cz##div#dynamic_banner__ad-wrapper
-!kupi.cz##div#user_geo_popup
 
 ! style name
 !idnes.cz##div[style="position:relative; width:480px; height:300px;"]
@@ -62,6 +64,7 @@ seznamzpravy.cz##div#dynamic_banner__ad-wrapper
 !idnes.cz##div[style="width: 300px; height: 600px; display: block;"]
 !idnes.cz##div[style="background-position: center center;"]
 !idnes.cz##table:has-text(branding)
+idnes.cz##img[style="width:480px; height:480px"]
 novinky.cz##div[style="display:inline-block; display:-moz-box; margin-right:-100%; cursor:pointer;"]
 novinky.cz##div[style="z-index: 2; position: relative; margin-top: 210px; background: url(&quot;//1.im.cz/r2/_samples/novinky/repeat-shadow-big.gif&quot;) rgb(255, 255, 255); width: 1029px;"]
 novinky.cz##div[style="position:relative; right:50%; text-align:center;"]
