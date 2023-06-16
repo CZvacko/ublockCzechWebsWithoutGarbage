@@ -54,7 +54,7 @@ seznam.cz##div#timeline-article
 diit.cz##div#fb-root
 havirov-city.cz##div#sliding-popup
 seznamzpravy.cz##div#dynamic_banner__ad-wrapper
-kupi.cz##div#user_geo_popup
+!kupi.cz##div#user_geo_popup
 
 ! style name
 !idnes.cz##div[style="position:relative; width:480px; height:300px;"]
