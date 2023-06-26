@@ -46,6 +46,7 @@ idnes.cz##div#do-kina
 idnes.cz##div#logo
 idnes.cz##div#house_left
 idnes.cz##div#header-copy1
+idnes.cz##div#art-afterlist
 tvprogram.idnes.cz##div#fixed-group
 novinky.cz##div#rightColumn
 novinky.cz##div#container-banner
