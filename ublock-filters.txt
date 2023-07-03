@@ -13,7 +13,7 @@ idnes.cz##div.group.group-premium
 idnes.cz##div.art.art-videoplayer
 idnes.cz##div.group-infinity
 idnes.cz##div.intermediate-element
-kupi.cz##div.selfpromo_paid
+!kupi.cz##div.selfpromo_paid
 svepomoci.cz##div.v-responsive__content
 denik.cz##div.covid-banner
 denik.cz##div.bannerTop__container
