@@ -25,6 +25,8 @@ zive.cz##div.bx.box-zbozi.fs-os
 idnes.cz##div.opener.extra-box.premium-megabox
 idnes.cz##div.group.group-doporucujeme
 proalergiky.cz##div.banner-wrapper
+garaz.cz##div.sssp-resizeCont
+garaz.cz##div.sssp-posCont
 
 
 ! div id
