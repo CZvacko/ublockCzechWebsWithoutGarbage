@@ -13,10 +13,10 @@ idnes.cz##div.group.group-premium
 idnes.cz##div.art.art-videoplayer
 idnes.cz##div.group-infinity
 idnes.cz##div.intermediate-element
-!kupi.cz##div.selfpromo_paid
 svepomoci.cz##div.v-responsive__content
 denik.cz##div.covid-banner
 denik.cz##div.bannerTop__container
+denik.cz##div.pla-net.m58.s_widesquare
 seznam.cz##div.sssp-posCont
 seznam.cz##div.position-relative.atm-video-player
 idnes.cz##score-box#group-premium
@@ -27,6 +27,9 @@ idnes.cz##div.group.group-doporucujeme
 proalergiky.cz##div.banner-wrapper
 garaz.cz##div.sssp-resizeCont
 garaz.cz##div.sssp-posCont
+alza.cz##div.chat-wrapper.opened
+echo24.cz##main.l-contentHP
+echo24.cz##div.l-hide\@m.js-nonSeznam
 
 
 ! div id
