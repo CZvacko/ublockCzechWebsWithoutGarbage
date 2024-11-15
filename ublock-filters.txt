@@ -32,6 +32,7 @@ garaz.cz##div.sssp-posCont
 alza.cz##div.chat-wrapper.opened
 echo24.cz##main.l-contentHP
 echo24.cz##div.l-hide\@m.js-nonSeznam
+epochtimes.cz##div.modal__overlay
 
 
 ! div id
