@@ -33,7 +33,7 @@ alza.cz##div.chat-wrapper.opened
 echo24.cz##main.l-contentHP
 echo24.cz##div.l-hide\@m.js-nonSeznam
 epochtimes.cz##div.modal__overlay
-
+modrastrecha.cz##div.h-\[170px\]
 
 ! div id
 idnes.cz##div#space-c-add
