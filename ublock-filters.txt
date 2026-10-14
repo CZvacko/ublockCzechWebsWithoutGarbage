@@ -15,30 +15,13 @@ epochtimes.cz##div.modal__overlay
 modrastrecha.cz##div.h-\[170px\]
 
 ! div id
-tvprogram.idnes.cz##div#fixed-group
 diit.cz##div#fb-root
 havirov-city.cz##div#sliding-popup
-seznamzpravy.cz##div#dynamic_banner__ad-wrapper
 autickar.cz##div#adblockersArticle
 autickar.cz##div#adblockersArticleIn
 windy.com##div#plugin-consent
 epochtimes.cz##div#header_nav
 
 ! style name
-seznam.cz##div[style="width: 480px; height: 300px;"]
-seznam.cz##div[style="width: 300px; height: 600px;"]
-seznam.cz##div[style="width: 300px; height: 250px;"]
-seznam.cz##div[style="width: 300px; max-width: 100%;"]
-seznam.cz##div[style="width: 461px; height: 100px;"]
-seznam.cz##div[style="height: 299.78px; width: 479.885px; max-width: 100%;"]
-seznam.cz##div[style="height: 299.906px; width: 479.524px; max-width: 100%;"]
-seznam.cz##div[style="height: 299.934px; width: 479.725px; max-width: 100%;"]
-seznam.cz##div[style="flex-basis: 1800px; height: 1800px;"]
 
-www.dasweltauto.cz##.cookie-wrapper
-
-www.seznam.cz##.article:has(.article__title:has-text(/(nakažených)|(covid)|(korona)|(delta)|(omikron)|(pcr)|(virus)|(epidemi)|(lockdown)|(očkov)|(hygie)/i))
-www.seznam.cz##.article:has(.article__perex:has-text(/(nakažených)|(covid)|(korona)|(delta)|(omikron)|(pcr)|(virus)|(epidemi)|(lockdown)|(očkov)|(hygie)/i))
-www.idnes.cz##.art:has(.art h3:has-text(/(nakažených)|(covid)|(korona)|(delta)|(omikron)|(pcr)|(virus)|(epidemi)|(lockdown)|(očkov)|(hygie)|(testy)|(vakcín)/i))
-www.novinky.cz##li:has(h3:has-text(/(nakažených)|(covid)|(korona)|(delta)|(omikron)|(pcr)|(virus)|(epidemi)|(lockdown)|(očkov)|(hygie)/i))
 
